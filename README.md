@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="https://www.linkedin.com/in/aleksandr-tatevosian-799410200/">
   <img align="left" alt="Alexander's LinkedIN" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
 </a>
