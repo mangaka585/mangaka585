@@ -14,7 +14,7 @@ Hi, I'm Alexander Tatevosyan, a self-taught Full Stack JavaScript developer from
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/36/31/07/36310719e3f32b1ad13c9ef39db5f859.gif" width="500" height="270" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/36/31/07/36310719e3f32b1ad13c9ef39db5f859.gif" width="480" height="270" />
 
 💬 Ask me about anything, I am happy to help
   
