@@ -14,11 +14,14 @@ Hi, I'm Alexander Tatevosyan, a self-taught Full Stack JavaScript developer from
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/36/31/07/36310719e3f32b1ad13c9ef39db5f859.gif" width="550" height="270" />
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/36/31/07/36310719e3f32b1ad13c9ef39db5f859.gif" width="500" height="320" />
+💬 Ask me about anything, I am happy to help
   
-- 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355)
+![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-light-mode-only)
+
+
 
 **Languages and Tools:**  
 
@@ -42,6 +45,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png"></code>
-
-![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-light-mode-only)
