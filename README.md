@@ -42,3 +42,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png"></code>
+
+![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mangaka585/github_statistics/master/generated/overview.svg#gh-light-mode-only)
