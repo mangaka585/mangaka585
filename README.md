@@ -13,11 +13,15 @@ Hi, I'm Alexander Tatevosyan, a self-taught Full Stack JavaScript developer from
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 💬 Ask me about anything, I am happy to help
-  
+
+<span>
 <img src="https://github.com/mangaka585/github_statistics/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/mangaka585/github_statistics/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</span>
+<span>
 <img src="https://github.com/mangaka585/github_statistics/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/mangaka585/github_statistics/blob/master/generated/languages.svg#gh-light-mode-only" />
+</span>
 
 **Languages and Tools:**  
 
