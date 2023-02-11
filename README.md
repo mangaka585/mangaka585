@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="https://www.linkedin.com/in/aleksandr-tatevosian-799410200/">
-  <img align="left" alt="Alexander's LinkedIn" width="22px" 
-src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
+  <img align="left" alt="Alexander's LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
 </a>
 <a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
