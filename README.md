@@ -8,7 +8,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
 
-Hi, I'm Alexander Tatevosyan, a self-taught software developer from Russia. My passion for software lies with dreaming up ideas and making them come true with modern technologies. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Alexander Tatevosyan, a self-taught software developer. My passion for software lies with dreaming up ideas and making them come true with modern technologies. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
