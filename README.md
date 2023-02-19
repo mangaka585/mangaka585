@@ -12,7 +12,7 @@ Hi, I'm Alexander Tatevosyan, a self-taught software developer. My passion for s
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-💬 Ask me about anything, I am happy to help.
+💬 Ask me about anything, I am happy to help
 
 <span>
 <img src="https://github.com/mangaka585/github_statistics/blob/master/generated/overview.svg#gh-dark-mode-only" />
