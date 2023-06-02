@@ -6,8 +6,6 @@
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mangaka585.mangaka585.github.io)
-
 Hi, I'm Alexander Tatevosyan, a self-taught software developer. My passion for software lies with dreaming up ideas and making them come true with modern technologies. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
