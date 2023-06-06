@@ -5,7 +5,7 @@
 <a href="https://hh.ru/resume/a9724722ff06ab0f500039ed1f514173763355">
   <img align="left" alt="Alexander's HeadHunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/480px-HeadHunter_logo.png" />
 </a>
-<br>
+<br></br>
 
 Hi, I'm Alexander Tatevosyan, a self-taught software developer. My passion for software lies with dreaming up ideas and making them come true with modern technologies. I take great care in the experience, architecture, and code quality of the things I build.
 
