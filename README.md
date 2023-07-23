@@ -24,6 +24,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 **Languages and Tools:**  
 
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/camunda_logo_icon_167768.png"></code>
@@ -48,3 +49,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gulp_plain_logo_icon_146485.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prometheus_icon_130229.png"></code>
