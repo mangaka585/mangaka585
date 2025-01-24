@@ -24,7 +24,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/camunda_logo_icon_167768.png"></code>
@@ -39,11 +39,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_wordmark_logo_icon_146555.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/grunt_original_wordmark_logo_icon_146489.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=z--494WDBKte&format=png&color=000000"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_wordmark_logo_icon_146410.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000"></code>
+<code><img height="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gulp_plain_logo_icon_146485.png"></code>
